@@ -36,11 +36,11 @@ Universal supports both Apple Silicon and Intel Macs
 
 x86_64 ONLY
 
-[![9]](https://github.com/PrismLauncher/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-7.2-x86_64.AppImage)
-[![10]](https://github.com/PrismLauncher/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-7.2.tar.gz)
-[![11]](https://github.com/PrismLauncher/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-portable-7.2.tar.gz)
-[![12]](https://github.com/PrismLauncher/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-Qt6-7.2.tar.gz)
-[![13]](https://github.com/PrismLauncher/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-Qt6-portable-7.2.tar.gz)
+[![9]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-7.2-x86_64.AppImage)
+[![10]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-7.2.tar.gz)
+[![11]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-portable-7.2.tar.gz)
+[![12]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-Qt6-7.2.tar.gz)
+[![13]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-Qt6-portable-7.2.tar.gz)
 
 [1]: https://img.shields.io/badge/Installer%20(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [2]: https://img.shields.io/badge/Portable%20(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
