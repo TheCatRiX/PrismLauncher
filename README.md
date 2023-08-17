@@ -1,6 +1,6 @@
 # Prism Launcher Cracked
 
-This is a fork of the Prism Launcher that allows you to add an offline account.
+This is a fork of the Prism Launcher that allows you to add an offline account without restrictions.
 
 ## Windows Download
 
@@ -42,16 +42,16 @@ x86_64 ONLY
 [![12]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-Qt6-7.2.tar.gz)
 [![13]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-Qt6-portable-7.2.tar.gz)
 
-[1]: https://img.shields.io/badge/Installer%20(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[2]: https://img.shields.io/badge/Portable%20(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[3]: https://img.shields.io/badge/Installer%20(ARM64)%20(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[4]: https://img.shields.io/badge/Portable%20(ARM64)%20(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[5]: https://img.shields.io/badge/Installer%20(Legacy)%20(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[6]: https://img.shields.io/badge/Portable%20(Legacy)%20(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[7]: https://img.shields.io/badge/Download%20(Universal)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[8]: https://img.shields.io/badge/Download%20Legacy%20(Catalina%20or%20older)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[9]: https://img.shields.io/badge/Download%20(AppImage)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[10]: https://img.shields.io/badge/Download%20(tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[11]: https://img.shields.io/badge/Download%20Portable%20(tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[12]: https://img.shields.io/badge/Download%20(Qt%206,%20tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[13]: https://img.shields.io/badge/Download%20Portable%20(Qt%206,%20tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[1]: https://img.shields.io/badge/Installer_(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[2]: https://img.shields.io/badge/Portable_(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[3]: https://img.shields.io/badge/Installer_(ARM64)_(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[4]: https://img.shields.io/badge/Portable_(ARM64)_(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[5]: https://img.shields.io/badge/Installer_(Legacy)_(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[6]: https://img.shields.io/badge/Portable_(Legacy)_(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[7]: https://img.shields.io/badge/Download_(Universal)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[8]: https://img.shields.io/badge/Download_Legacy_(Catalina_or_older)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[9]: https://img.shields.io/badge/Download_(AppImage)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[10]: https://img.shields.io/badge/Download_(tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[11]: https://img.shields.io/badge/Download_Portable_(tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[12]: https://img.shields.io/badge/Download_(Qt_6,_tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[13]: https://img.shields.io/badge/Download_Portable_(Qt_6,_tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
