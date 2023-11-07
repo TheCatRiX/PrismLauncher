@@ -1,112 +1,57 @@
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo-darkmode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo.svg">
-  <img alt="Prism Launcher" src="/program_info/org.prismlauncher.PrismLauncher.logo.svg" width="40%">
-</picture>
-</p>
+# Prism Launcher Cracked
 
-<p align="center">
-  Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
-  <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
-</p>
+This is a fork of the Prism Launcher that allows you to add an offline account without restrictions.
 
-## Installation
+## Windows Download
 
-<a href="https://repology.org/project/prismlauncher/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/prismlauncher.svg" alt="Packaging status" align="right">
-</a>
+### Windows 10/11 64bit
 
-- All downloads and instructions for Prism Launcher can be found on our [Website](https://prismlauncher.org/download).
-- Last build status can be found in the [GitHub Actions](https://github.com/PrismLauncher/PrismLauncher/actions) tab (this also includes the pull requests status).
+Requires [Microsoft Visual C++ Redistributable 2022 x64](https://aka.ms/vs/17/release/vc_redist.x64.exe) to run
 
-### Development Builds
+[![1]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Windows-MSVC-Setup-7.2.exe)
+[![2]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Windows-MSVC-Portable-7.2.zip)
 
-Please understand that these builds are not intended for most users. There may be bugs, and other instabilities. You have been warned.
+### Windows 10/11 ARM64
 
-There are development builds available through:
+Requires [Microsoft Visual C++ Redistributable 2022 arm64](https://aka.ms/vs/17/release/vc_redist.arm64.exe) to run
 
-- [GitHub Actions](https://github.com/PrismLauncher/PrismLauncher/actions) (includes builds from pull requests opened by contribuitors)
-- [nightly.link](https://nightly.link/PrismLauncher/PrismLauncher/workflows/trigger_builds/develop) (this will always point only to the latest version of develop)
+[![3]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Windows-MSVC-arm64-Setup-7.2.exe)
+[![4]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Windows-MSVC-arm64-Portable-7.2.zip)
 
-These have debug information in the binaries, so their file sizes are relatively larger.
+### Windows 7/8.1 32/64 bit and Windows 10 32 bit
 
-Prebuilt Development builds are provided for **Linux**, **Windows** and **macOS**.
+Requires [Microsoft Visual C++ Redistributable 2022 x86](https://aka.ms/vs/17/release/vc_redist.x86.exe) to run
 
-For **Arch**, **Debian**, **Fedora**, **OpenSUSE (Tumbleweed)** and **Gentoo**, respectively, you can use these packages for the latest development versions:
+[![5]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Windows-MSVC-Legacy-Setup-7.2.exe)
+[![6]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Windows-MSVC-Legacy-Portable-7.2.zip)
 
-[![prismlauncher-git](https://img.shields.io/badge/aur-prismlauncher--git-1793D1?label=AUR&logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages/prismlauncher-git) [![prismlauncher-git](https://img.shields.io/badge/aur-prismlauncher--qt5--git-1793D1?label=AUR&logo=archlinux&logoColor=white)](https://aur.archlinux.org/packages/prismlauncher-qt5-git) [![prismlauncher-git](https://img.shields.io/badge/mpr-prismlauncher--git-A80030?label=MPR&logo=debian&logoColor=white)](https://mpr.makedeb.org/packages/prismlauncher-git)<br />[![prismlauncher-nightly](https://img.shields.io/badge/copr-prismlauncher--nightly-51A2DA?label=COPR&logo=fedora&logoColor=white)](https://copr.fedorainfracloud.org/coprs/g3tchoo/prismlauncher/) [![prismlauncher-nightly](https://img.shields.io/badge/OBS-prismlauncher--nightly-3AB6A9?logo=opensuse&logoColor=white)](https://build.opensuse.org/project/show/home:getchoo) [![prismlauncher-9999](https://img.shields.io/badge/gentoo-prismlauncher--9999-4D4270?label=Gentoo&logo=gentoo&logoColor=white)](https://packages.gentoo.org/packages/games-action/prismlauncher)
+## macOS Download
 
-These packages are also available to all the distributions based on the ones mentioned above.
+Universal supports both Apple Silicon and Intel Macs
 
-## Community & Support
+[![7]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-macOS-7.2.tar.gz)
+[![8]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-macOS-Legacy-7.2.tar.gz)
 
-Feel free to create a GitHub issue if you find a bug or want to suggest a new feature. We have multiple community spaces where other community members can help you:
+## Linux Download
 
-- **Our Discord server:**
+x86_64 ONLY
 
-[![Prism Launcher Discord server](https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner3)](https://prismlauncher.org/discord)
+[![9]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-7.2-x86_64.AppImage)
+[![10]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-7.2.tar.gz)
+[![11]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-portable-7.2.tar.gz)
+[![12]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-Qt6-7.2.tar.gz)
+[![13]](https://github.com/TheCatRiX/PrismLauncher/releases/download/7.2/PrismLauncher-Linux-Qt6-portable-7.2.tar.gz)
 
-- **Our Matrix space:**
-
-[![Prism Launcher Space](https://img.shields.io/matrix/prismlauncher:matrix.org?style=for-the-badge&label=Matrix%20Space&logo=matrix&color=purple)](https://prismlauncher.org/matrix)
-
-- **Our Subreddit:**
-
-[![r/PrismLauncher](https://img.shields.io/reddit/subreddit-subscribers/prismlauncher?style=for-the-badge&logo=reddit)](https://prismlauncher.org/reddit)
-
-## Translations
-
-The translation effort for Prism Launcher is hosted on [Weblate](https://hosted.weblate.org/projects/prismlauncher/launcher/) and information about translating Prism Launcher is available at <https://github.com/PrismLauncher/Translations>.
-
-## Building
-
-If you want to build Prism Launcher yourself, check the [Build Instructions](https://prismlauncher.org/wiki/development/build-instructions/).
-
-## Sponsors & Partners
-
-We thank all the wonderful backers over at Open Collective! Support Prism Launcher by [becoming a backer](https://opencollective.com/prismlauncher).
-
-[![OpenCollective Backers](https://opencollective.com/prismlauncher/backers.svg?width=890&limit=1000)](https://opencollective.com/prismlauncher#backers)
-
-Thanks to JetBrains for providing us a few licenses for all their products, as part of their [Open Source program](https://www.jetbrains.com/opensource/).
-
-[![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)](https://www.jetbrains.com/opensource/)
-
-Thanks to Weblate for hosting our translation efforts.
-
-<a href="https://hosted.weblate.org/engage/prismlauncher/">
-<img src="https://hosted.weblate.org/widgets/prismlauncher/-/open-graph.png" alt="Translation status" width="300" />
-</a>
-
-Thanks to Netlify for providing us their excellent web services, as part of their [Open Source program](https://www.netlify.com/open-source/).
-
-<a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" /> </a>
-
-Thanks to the awesome people over at [MacStadium](https://www.macstadium.com/), for providing M1-Macs for development purposes!
-
-<a href="https://www.macstadium.com"><img src="https://uploads-ssl.webflow.com/5ac3c046c82724970fc60918/5c019d917bba312af7553b49_MacStadium-developerlogo.png" alt="Powered by MacStadium" width="300"></a>
-
-## Forking/Redistributing/Custom builds policy
-
-You are free to fork, redistribute and provide custom builds as long as you follow the terms of the [license](LICENSE) (this is a legal responsibility), and if you made code changes rather than just packaging a custom build, please do the following as a basic courtesy:
-
-- Make it clear that your fork is not Prism Launcher and is not endorsed by or affiliated with the Prism Launcher project (<https://prismlauncher.org>).
-- Go through [CMakeLists.txt](CMakeLists.txt) and change Prism Launcher's API keys to your own or set them to empty strings (`""`) to disable them (this way the program will still compile but the functionality requiring those keys will be disabled).
-
-If you have any questions or want any clarification on the above conditions please make an issue and ask us.
-
-If you are just building Prism Launcher for your distribution, please make sure to set the `Launcher_BUILD_PLATFORM` to a slug representing your distribution. Examples are `archlinux`, `fedora` and `nixpkgs`.
-
-Note that if you build this software without removing the provided API keys in [CMakeLists.txt](CMakeLists.txt) you are accepting the following terms and conditions:
-
-- [Microsoft Identity Platform Terms of Use](https://docs.microsoft.com/en-us/legal/microsoft-identity-platform/terms-of-use)
-- [CurseForge 3rd Party API Terms and Conditions](https://support.curseforge.com/en/support/solutions/articles/9000207405-curse-forge-3rd-party-api-terms-and-conditions)
-
-If you do not agree with these terms and conditions, then remove the associated API keys from the [CMakeLists.txt](CMakeLists.txt) file by setting them to an empty string (`""`).
-
-## License [![https://github.com/PrismLauncher/PrismLauncher/blob/develop/LICENSE](https://img.shields.io/github/license/PrismLauncher/PrismLauncher?label=License&logo=gnu&color=C4282D)](LICENSE)
-
-All launcher code is available under the GPL-3.0-only license.
-
-The logo and related assets are under the CC BY-SA 4.0 license.
+[1]: https://img.shields.io/badge/Installer_(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[2]: https://img.shields.io/badge/Portable_(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[3]: https://img.shields.io/badge/Installer_(ARM64)_(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[4]: https://img.shields.io/badge/Portable_(ARM64)_(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[5]: https://img.shields.io/badge/Installer_(Legacy)_(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[6]: https://img.shields.io/badge/Portable_(Legacy)_(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[7]: https://img.shields.io/badge/Download_(Universal)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[8]: https://img.shields.io/badge/Download_Legacy_(Catalina_or_older)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[9]: https://img.shields.io/badge/Download_(AppImage)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[10]: https://img.shields.io/badge/Download_(tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[11]: https://img.shields.io/badge/Download_Portable_(tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[12]: https://img.shields.io/badge/Download_(Qt_6,_tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[13]: https://img.shields.io/badge/Download_Portable_(Qt_6,_tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
