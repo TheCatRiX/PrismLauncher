@@ -26,7 +26,7 @@ Universal supports both Apple Silicon and Intel Macs
 
 x86_64 ONLY
 
-[![7]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-8.0-x86_64.AppImage) [![8]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-8.0.tar.gz) [![9]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-portable-8.0.tar.gz) [![10]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt6-8.0.tar.gz) [![11]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt6-portable-8.0.tar.gz)
+[![7]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-x86_64.AppImage) [![8]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt5-8.0.tar.gz) [![9]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt5-Portable-8.0.tar.gz) [![10]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt6-8.0.tar.gz) [![11]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt6-Portable-8.0.tar.gz)
 
 [1]: https://img.shields.io/badge/Installer_(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [2]: https://img.shields.io/badge/Portable_(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
@@ -35,7 +35,7 @@ x86_64 ONLY
 [5]: https://img.shields.io/badge/Download_(Universal)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [6]: https://img.shields.io/badge/Download_Legacy_(Catalina_or_older)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [7]: https://img.shields.io/badge/Download_(AppImage)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[8]: https://img.shields.io/badge/Download_(tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-[9]: https://img.shields.io/badge/Download_Portable_(tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[8]: https://img.shields.io/badge/Download_(Qt_5,_tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[9]: https://img.shields.io/badge/Download_Portable_(Qt_5,_tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [10]: https://img.shields.io/badge/Download_(Qt_6,_tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [11]: https://img.shields.io/badge/Download_Portable_(Qt_6,_tar.gz)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
