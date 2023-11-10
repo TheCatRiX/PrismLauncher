@@ -26,7 +26,9 @@ Universal supports both Apple Silicon and Intel Macs
 
 x86_64 ONLY
 
-[![7]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-x86_64.AppImage) [![8]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt5-8.0.tar.gz) [![9]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt5-Portable-8.0.tar.gz) [![10]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt6-8.0.tar.gz) [![11]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt6-Portable-8.0.tar.gz)
+[![7]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-x86_64.AppImage)  
+[![8]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt5-8.0.tar.gz) [![9]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt5-Portable-8.0.tar.gz)  
+[![10]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt6-8.0.tar.gz) [![11]](https://github.com/TheCatRiX/PrismLauncher/releases/download/8.0/PrismLauncher-Linux-Qt6-Portable-8.0.tar.gz)
 
 [1]: https://img.shields.io/badge/Installer_(.exe)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 [2]: https://img.shields.io/badge/Portable_(.zip)-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
