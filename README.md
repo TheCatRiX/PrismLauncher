@@ -1,6 +1,6 @@
 # Prism Launcher Cracked
 
-This is a fork of the Prism Launcher that allows you to add an offline account without restrictions.
+This is a fork of the Prism Launcher that allows you adding an offline account without restrictions.
 
 ## Windows Download
 
